@@ -1,5 +1,5 @@
 <?php
-// Autor: Matteo
+// Autor: Matteo Fernandez
 
 $numeroElementos = 6;
 $serieFibonacci = fibonacci($numeroElementos);
